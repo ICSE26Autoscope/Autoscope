@@ -1,0 +1,11 @@
+/Users/alan/Downloads/train-ticket-master/ts-food-service/src/main/java/foodsearch/FoodApplication.java
+/Users/alan/Downloads/train-ticket-master/ts-food-service/src/main/java/foodsearch/mq/RabbitSend.java
+/Users/alan/Downloads/train-ticket-master/ts-food-service/src/main/java/foodsearch/config/SecurityConfig.java
+/Users/alan/Downloads/train-ticket-master/ts-food-service/src/main/java/foodsearch/entity/Delivery.java
+/Users/alan/Downloads/train-ticket-master/ts-food-service/src/main/java/foodsearch/service/FoodServiceImpl.java
+/Users/alan/Downloads/train-ticket-master/ts-food-service/src/main/java/foodsearch/entity/FoodOrder.java
+/Users/alan/Downloads/train-ticket-master/ts-food-service/src/main/java/foodsearch/service/FoodService.java
+/Users/alan/Downloads/train-ticket-master/ts-food-service/src/main/java/foodsearch/config/Queues.java
+/Users/alan/Downloads/train-ticket-master/ts-food-service/src/main/java/foodsearch/controller/FoodController.java
+/Users/alan/Downloads/train-ticket-master/ts-food-service/src/main/java/foodsearch/repository/FoodOrderRepository.java
+/Users/alan/Downloads/train-ticket-master/ts-food-service/src/main/java/foodsearch/entity/AllTripFood.java

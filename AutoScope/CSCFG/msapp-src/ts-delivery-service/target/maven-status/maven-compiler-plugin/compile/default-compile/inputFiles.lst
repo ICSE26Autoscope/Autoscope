@@ -1,0 +1,5 @@
+/Users/alan/Downloads/train-ticket-master/ts-delivery-service/src/main/java/delivery/DeliveryApplication.java
+/Users/alan/Downloads/train-ticket-master/ts-delivery-service/src/main/java/delivery/repository/DeliveryRepository.java
+/Users/alan/Downloads/train-ticket-master/ts-delivery-service/src/main/java/delivery/mq/RabbitReceive.java
+/Users/alan/Downloads/train-ticket-master/ts-delivery-service/src/main/java/delivery/config/Queues.java
+/Users/alan/Downloads/train-ticket-master/ts-delivery-service/src/main/java/delivery/entity/Delivery.java
